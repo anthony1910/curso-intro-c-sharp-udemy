@@ -1,0 +1,7 @@
+C:\xampp2\htdocs\labs\cursos\curso-intro-c-sharp-udemy\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\xampp2\htdocs\labs\cursos\curso-intro-c-sharp-udemy\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\xampp2\htdocs\labs\cursos\curso-intro-c-sharp-udemy\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\xampp2\htdocs\labs\cursos\curso-intro-c-sharp-udemy\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+C:\xampp2\htdocs\labs\cursos\curso-intro-c-sharp-udemy\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\labs\cursos\curso-intro-c-sharp-udemy\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\xampp2\htdocs\labs\cursos\curso-intro-c-sharp-udemy\MyApp\MyApp\obj\Debug\MyApp.pdb
