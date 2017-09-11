@@ -4,16 +4,14 @@ namespace MyNameSpace
 {
     class Program
     {
-        
         static void Main(string[] args)
         {
-            int a = 5;
-            int b = a + 2; // OK no problem
+            //byte b = 255;
+            int i = 256; //OK
+            string b = (byte)i;
 
-            bool test = true;
-
-            //int c = a + test; // Error. Bool and int não pode
-
+            Console.WriteLine(d);
+            Console.ReadKey();
         }
 
     }
