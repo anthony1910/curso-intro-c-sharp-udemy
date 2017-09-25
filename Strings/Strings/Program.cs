@@ -6,7 +6,7 @@ namespace Strings
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }
